@@ -608,6 +608,10 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    background: #f9f9f9;
+}
+.footer .social-link + .social-link{
+    margin-left: 16px;
 }
 
 .footer .social-link:hover {
